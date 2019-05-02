@@ -1,0 +1,80 @@
+body {
+    margin: 10 auto;
+}
+
+#bloc1 {
+    text-align: center;
+
+    height: auto;
+}
+
+#player1 {
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    display: inline-block;
+    margin-right: 50px;
+    position: relative;
+    border-radius: 50px;
+}
+
+#pnj {
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    display: inline-block;
+    position: relative;
+    border-radius: 50px;
+}
+
+#pierre {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 25px;
+
+}
+
+#feuille {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-right: 25px;
+
+}
+
+#ciseau {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+#bloc2 {
+    text-align: center;
+    padding: 5px;
+    margin: 50px;
+    position: relative;
+}
+
+p{
+    text-align: center;
+    width: 50px;
+    height: 25px;
+    border: solid black 1px;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 50px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    
+}
+
+.disp {
+    display: inline-block;
+}
+
